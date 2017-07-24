@@ -1,0 +1,12 @@
+JOB #   hoursOrPatients       Rate      Final Total Pay
+1          5.00               20.00            $100.00
+2         20.00                5.00            $100.00
+
+
+The total pay of ALL JOBS is: $200.00
+
+Have a FANTASTIC day!
+
+
+              -bern
+
